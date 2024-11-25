@@ -1,9 +1,26 @@
-### Oiii, bem vindos ao meu espaço! 💝
+### Oiii, bem-vindos ao meu espaço! 💝
+
+Sou a Thalita Miquiles, uma apaixonada por tecnologia e desenvolvimento! 🌟
+Atualmente, estou explorando o mundo do JavaScript e PHP, e adoro criar soluções criativas e eficientes. 🚀
+
+Aqui você vai encontrar alguns dos meus projetos, experiências e aprendizado ao longo dessa jornada.
+
+Adoro aprender coisas novas, colaborar em projetos open-source e me desafiar cada vez mais! 💡
 
 ##
 
+## 🚀 Projeto em Destaque
+
+- **[meu-site-literario]([https://github.com/miquiles01/ToDoList-Pyhton](https://github.com/miquiles01/meu-site-literario))**: Site e blog inspirado no meu instagram literário
+
 ##
 
+## 🏆 Objetivos Futuros
+
+- Desenvolver mais projetos com foco em **Front-End** e **Full-Stack**.
+- Participar de desafios de programação para melhorar minhas habilidades.
+
+##
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miquiles01&layout=compact&theme=dracula)
 
 
