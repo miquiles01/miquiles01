@@ -9,12 +9,6 @@ Adoro aprender coisas novas, colaborar em projetos open-source e me desafiar cad
 
 ##
 
-## 🚀 Projeto em Destaque
-
-- **[meu-site-literario]([https://github.com/miquiles01/ToDoList-Pyhton](https://github.com/miquiles01/meu-site-literario))**: Site e blog inspirado no meu instagram literário
-
-##
-
 ## 🏆 Objetivos Futuros
 
 - Desenvolver mais projetos com foco em **Front-End** e **Full-Stack**.
